@@ -95,3 +95,80 @@ Using structured Prompt Engineering techniques directly enhanced the business an
 * **Scenario Modeling & Forecasting:** Interactive Python code execution enabled instant scenario testing—contrasting organic baseline growth (+7.1%) against strategic target growth (+11.1%).
 * **Stakeholder-Ready Communication:** Complex financial metrics were translated into clear, plain-language insights tailored for cross-functional business leaders and non-technical stakeholders.
 
+
+# Sales Performance Analysis & Q2 Strategy Report
+
+**Author:** Analytics Bootcamp Trainee  
+**Module:** Prompt Engineering & Business Analytics  
+**Dataset:** Q1 2025 Regional Sales Performance  
+
+---
+
+## Executive Summary
+
+This repository contains the analysis of Q1 2025 regional sales performance data across six global markets: Asia, North America, Europe, South America, the Middle East, and Africa[cite: 1]. The initial baseline performance generated **$6.3M in revenue** across 44,000 units sold with an average profit margin of 22.6%[cite: 1].
+
+Using prompt engineering and data analytics techniques, this project identifies key performance drivers, outlines regional strategic interventions, projects Q2 2025 revenue targets, and details data limitations.
+
+---
+
+## 1. Key Insights from the Analysis
+
+* **Customer Satisfaction Drives Profitability:** There is a direct positive correlation between Customer Satisfaction (CSAT) scores and financial performance[cite: 1]. High-CSAT regions like Asia (8.5/10) and North America (8.2/10) achieved the highest sales volumes, total revenue, and profit margins (28% and 25%)[cite: 1].
+* **Revenue Concentration Risk:** Over 71% of total company revenue ($4.5M of $6.3M) is concentrated in the top three markets (Asia, North America, Europe)[cite: 1].
+* **Operational Efficiency Disparity:** Lower-tier regions face significant operational friction; doing business in Africa yields less than half the profit margin of Asia (12% vs. 28%)[cite: 1].
+
+---
+
+## 2. Recommended Regional Strategies
+
+### High Performers (Asia & North America)
+* **Objective:** Maximize Average Order Value (AOV) and protect strong profit margins[cite: 1].
+* **Action:** Implement value-added product bundling, test a 3–5% price adjustment on premium SKUs, and launch VIP loyalty programs leveraging high CSAT (8.2–8.5/10)[cite: 1].
+
+### Core Steady Markets (Europe & South America)
+* **Objective:** Expand regional market share and reduce customer purchase friction[cite: 1].
+* **Action:** Introduce localized dynamic pricing in local currencies and form regional distribution partnerships (e.g., Mercado Libre in South America).
+
+### Turnaround Focus (Middle East & Africa)
+* **Objective:** Improve low CSAT scores (5.9–6.5/10) and reduce high logistics costs[cite: 1].
+* **Action:** Launch entry-level "Lite" product variants, roll out localized customer support/onboarding guides, and transition to local fulfillment platforms (e.g., Jumia, Noon)[cite: 1].
+
+---
+
+## 3. Expected Impact on Q2 Sales Growth
+
+Implementing these strategic recommendations projects a **Strategic Target of $7.00M (+11.11% revenue growth over Q1)**, outperforming the organic Q2 baseline projection of $6.75M (+7.1%).
+
+### Q2 2025 Projected Performance Summary
+
+| Metric | Q1 2025 Actual | Q2 2025 Target | Variance ($) | Growth (%) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Total Revenue** | $6,300,000 | **$7,000,000** | +$700,000 | **+11.11%** |
+| **Gross Profit** | $1,425,000 | **$1,662,700** | +$237,700 | **+16.68%** |
+| **Average Margin** | 22.6% | **23.8%** | +1.2% pts | — |
+
+### Q2 Regional Target Breakdown
+* **Asia:** $2,070,000 (+15.0% growth | 29% target margin)
+* **North America:** $1,680,000 (+12.0% growth | 26% target margin)
+* **Europe:** $1,320,000 (+10.0% growth | 23% target margin)
+* **South America:** $864,000 (+8.0% growth | 19% target margin)
+* **Middle East:** $642,000 (+7.0% growth | 16% target margin)
+* **Africa:** $424,000 (+6.0% growth | 13% target margin)
+
+---
+
+## 4. Current Data Limitations
+
+1. **No COGS or Operational Cost Breakdown:** High-level profit margins do not detail regional shipping fees, tariffs, or local operating overhead[cite: 1].
+2. **Lack of Qualitative CSAT Drivers:** Data indicates where satisfaction is low (e.g., Africa at 5.9/10) but does not isolate whether the cause is product defects, delivery delays, or pricing[cite: 1].
+3. **Single-Quarter Snapshot:** Q1 data alone cannot account for annual seasonality patterns vs. overall trend lines[cite: 1].
+
+---
+
+## 5. How AI & Analytics Improved Decision-Making
+
+* **Rapid Pattern Recognition:** AI quickly isolated correlations across revenue, units, margins, and CSAT scores without complex manual calculations[cite: 1].
+* **Hypothesis Development:** Enabled realistic strategy modeling and growth assumptions even when micro-level data was unavailable.
+* **Scenario Modeling:** Allowed rapid calculations comparing organic baseline growth (+7.1%) against strategic targets (+11.11%).
+* **Clear Stakeholder Communication:** Successfully translated complex data and financial metrics into accessible, executive-ready language.
